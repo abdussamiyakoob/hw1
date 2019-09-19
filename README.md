@@ -2,6 +2,8 @@ Home work 1 - Abdus Sami Yakoob
 
 Link to my Github repository: https://github.com/abdussamiyakoob/hw1
 
+Link to my presentation:  https://abdussamiyakoob.github.io/
+
 Part C,
 
 The Elevator I have chosen today is in Park East – Student Living
@@ -9,7 +11,7 @@ The Elevator I have chosen today is in Park East – Student Living
 <img src="outside.jpg" width="30%"> <img src="elevator2.JPG" width="33%"> <img src="hw1.Yakoob.gif" width="33%">
 
 
-The Elevator I have chosen today is in Park East – Student Living
+
 
 If you look at the buttons outside the elevator, there’s no arrow, just two buttons up and down with no signs. That can land up a lot of people into confusion because there needs to be a certain direction for a person to assume if he needs to go down or up.
 
